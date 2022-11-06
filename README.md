@@ -3,8 +3,8 @@ This is the repository for EMNLP 2022 paper "Efficient Zero-shot Event Extractio
 
 
 ### Step 1: Setup
-1. Setup the environment with "requirements.txt"
-2. Download the preprocessed data from [data](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hzhangal_connect_ust_hk/Ea_-vqi24kpGko03HLKjawsBhILB5Ol0KeTMCalwaGx69A?e=cLoczZ)
+1. Setup the environment with "requirements.txt".
+2. Download the preprocessed data from [data](https://hkustconnect-my.sharepoint.com/:u:/g/personal/hzhangal_connect_ust_hk/Ea_-vqi24kpGko03HLKjawsBhILB5Ol0KeTMCalwaGx69A?e=cLoczZ).
 3. create the cache and output directory for later use.
 
 PS: If you want to reprocess the data, or you want to use your own data, simply follow "data_preparation.py". Otherwise, just unzip the downloaded data and put the two folders (i.e., data and maven_data) under the current directory.
