@@ -905,7 +905,7 @@ class BoundaryLoss(torch.nn.Module):
 
 def get_predictions(args, data_loader, eval_package, model, device):
     model.eval()
-    eval_dataset = eval_package['eval_dataset'][:10000]
+    eval_dataset = eval_package['eval_dataset']
     type2definitions = eval_package['type2definitions']
     all_glosses = list()
     for tmp_e_type in type2definitions:
