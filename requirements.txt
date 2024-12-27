@@ -1,6 +1,6 @@
 absl-py==1.2.0
 accelerate==0.11.0
-aiohttp==3.8.1
+aiohttp
 aiohttp-cors==0.7.0
 aiorwlock==1.3.0
 aiosignal==1.2.0
@@ -20,7 +20,7 @@ blis==0.7.8
 brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1648854164153/work
 cachetools==5.2.0
 catalogue==2.0.8
-certifi==2022.9.24
+certifi
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1625835301720/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1655906222726/work
 cheroot==8.6.0
@@ -46,7 +46,7 @@ filelock==3.7.1
 Flask==2.1.3
 flatbuffers==2.0
 flax==0.4.1
-fonttools==4.34.4
+fonttools
 frozenlist==1.3.0
 fsspec==2022.7.1
 gast==0.5.3
@@ -56,8 +56,8 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 googleapis-common-protos==1.56.4
 gpustat==1.0.0rc1
-gradio==3.1.1
-grpcio==1.43.0
+gradio
+grpcio
 gym==0.21.0
 h11==0.12.0
 h5py==3.7.0
@@ -79,9 +79,9 @@ jaraco.text==3.8.1
 jax==0.3.5
 jaxlib==0.3.5+cuda113.cudnn820
 Jinja2==3.1.2
-joblib==1.1.0
+joblib
 jsonschema==4.8.0
-keras==2.8.0
+keras
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 langcodes==3.3.0
@@ -91,7 +91,7 @@ linkify-it-py==1.0.3
 llvmlite==0.39.0
 lz4==4.0.2
 Markdown==3.4.1
-markdown-it-py==2.1.0
+markdown-it-py
 MarkupSafe==2.1.1
 matplotlib==3.5.2
 mccabe==0.7.0
@@ -106,7 +106,7 @@ msgpack==1.0.4
 multidict==6.0.2
 murmurhash==1.0.7
 networkx==2.6.3
-nltk==3.7
+nltk
 numba==0.56.0
 numpy==1.21.6
 nvidia-ml-py==11.495.46
@@ -121,12 +121,12 @@ packaging==21.3
 pandas==1.3.5
 paramiko==2.11.0
 pathy==0.6.2
-Pillow==9.2.0
+Pillow
 platformdirs==2.5.2
 portend==3.1.0
 preshed==3.0.6
 prometheus-client==0.13.1
-protobuf==3.19.4
+protobuf
 psutil==5.9.1
 PuLP==2.6.0
 py-spy==0.3.12
@@ -134,7 +134,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pybind11==2.10.0
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
-pycryptodome==3.15.0
+pycryptodome
 pydantic==1.9.1
 pydub==0.25.1
 pylint==2.14.0
@@ -144,7 +144,7 @@ pyparsing==3.0.9
 pyrsistent==0.18.1
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1648857264451/work
 python-dateutil==2.8.2
-python-multipart==0.0.5
+python-multipart
 pytorch-metric-learning==1.5.1
 pytz==2022.1
 PyWavelets==1.3.0
@@ -158,7 +158,7 @@ rouge-score==0.1.2
 rsa==4.9
 scann==1.2.6
 scikit-image==0.19.3
-scikit-learn==1.0.2
+scikit-learn
 scipy==1.7.3
 sentence-transformers==2.2.2
 sentencepiece==0.1.97
@@ -169,14 +169,14 @@ spacy==3.4.1
 spacy-legacy==3.0.9
 spacy-loggers==1.0.3
 srsly==2.4.4
-starlette==0.19.1
+starlette
 tabulate==0.8.10
 tempora==5.0.2
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorboardX==2.5.1
-tensorflow==2.8.2
+tensorflow
 tensorflow-estimator==2.8.0
 tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
@@ -187,11 +187,11 @@ tokenizers==0.12.1
 tomli==2.0.1
 tomlkit==0.11.1
 toolz==0.12.0
-torch==1.12.0
+torch
 torchaudio==0.12.0
 torchvision==0.13.0
 tqdm==4.64.0
-transformers==4.22.2
+transformers
 typed-ast==1.5.4
 typer==0.4.2
 typing_extensions==4.1.1
@@ -202,7 +202,7 @@ uvicorn==0.16.0
 virtualenv==20.16.2
 wasabi==0.10.0
 wcwidth==0.2.5
-Werkzeug==2.2.1
+Werkzeug
 wrapt==1.14.1
 yapf==0.32.0
 yarl==1.7.2
